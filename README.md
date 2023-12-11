@@ -23,3 +23,5 @@
 **async_task_4** - event loop (микро и макротаски)
 
 **async_task_5** - promise
+
+**async_task_6** - функции
