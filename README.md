@@ -17,3 +17,5 @@
 **async_task_1** - event loop (микро и макротаски)
 
 **async_task_2** - event loop (микро и макротаски)
+
+**async_task_3** - event loop (микро и макротаски)
