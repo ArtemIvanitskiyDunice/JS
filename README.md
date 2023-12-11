@@ -11,3 +11,7 @@
 **logical_operators_2** - цепочка 'ИЛИ' ||
 
 **logical_operators_3** - цепочка 'И' &&
+
+### Задачи на асинхронность
+
+**async_task_1** - event loop (микро и макротаски)
