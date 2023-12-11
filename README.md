@@ -9,3 +9,5 @@
 **logical_operators_1** - приоритет операторов && и ||
 
 **logical_operators_2** - цепочка 'ИЛИ' ||
+
+**logical_operators_3** - цепочка 'И' &&
