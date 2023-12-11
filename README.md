@@ -41,3 +41,5 @@
 **async_task_13** - задача с таймаутами
 
 **async_task_14** - задача с промисами
+
+**async_task_15** - задача с Promise.all
