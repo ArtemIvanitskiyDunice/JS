@@ -25,3 +25,5 @@
 **async_task_5** - promise
 
 **async_task_6** - функции
+
+**async_task_7** - колбэки и таймауты
